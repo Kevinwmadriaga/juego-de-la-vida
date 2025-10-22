@@ -43,8 +43,8 @@ Instálala (si se usa):
 
 pip install matplotlib
 
-🧩 Modelos Implementados
-🔹 Juego de la Vida
+Modelos Implementados
+Juego de la Vida
 
 Basado en las reglas de Conway:
 
